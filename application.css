@@ -1,0 +1,79 @@
+<style>
+body {
+
+}
+
+html{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+.signup_body{
+  background-image: url("images/drone.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.signup_controls{
+  margin: 200px 980px;
+}
+
+.signup_controls h3 {
+  width: 200px;
+  padding: 0 0 0 10px;
+  margin: 0 0;
+  color: white;
+  font-family: Helvetica;
+ font-weight: normal;
+ font-size: 20px;
+}
+
+.signup_controls input[type="text"]
+{
+  display: inline;
+  padding: 15px;
+  margin: 10px;
+  width: 220px;
+  height: 10px;
+  font-family: Courier;
+  font-size: 15px;
+}
+
+.signup_controls label[name="got_account"]
+{
+  display: block;
+  width: 180px;
+  padding: 10px;
+  margin-left: 40px;
+  padding-bottom: 2px;
+  font-family: "Times new roman";
+  color: white;
+}
+.signup_controls a {
+  display: block;
+  width: 100px;
+  padding: 0 10px;
+  margin-left: 80px;
+  color: #006600;
+}
+
+
+.signup_controls input[type="submit"]
+{
+  padding: 20px;
+  margin: 10px;
+  margin-top: 0px;
+  width:255px;
+  height: 10px;
+  color: white;
+  background-color: #FF6347;
+  border: 1px solid #FF6347;
+  font: normal 20px 'Helvetica';
+  line-height : 0px;
+}
+
+
+
+
+
+</style>
